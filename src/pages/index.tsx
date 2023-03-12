@@ -31,7 +31,7 @@ export default function Home({ data }: { data: PatientRecord }) {
             name="Kate Wilson"
             src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1061&q=80"
           />
-          <Heading color={"#1448e8"}>{data.legalName}</Heading>
+          <Heading color={"#1448e8"}>Kate Wilson</Heading>
 
           <Divider />
           <Heading
