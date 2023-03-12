@@ -40,7 +40,7 @@ export default function Home({ data }: { data: PatientRecord }) {
           >
             My Notes
           </Heading>
-          <Text>{data.notes}</Text>
+          <Text>Please contact my husband Max in case of emergency. Thank you so much.</Text>
 
           <Divider />
           <Heading
