@@ -25,6 +25,7 @@ Please note that the simulated health database has been taken down after the eve
 - Scan QR code to view the patient's public profile.  
 - All information shown on screen can be modified in the [web app](https://github.com/julhoang/code_hack_patient_app)  
 <br>
+
 ![Scan QR to view public profile](screenshots/demo.gif)
 
 
